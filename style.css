@@ -1,0 +1,48 @@
+body{
+    background-color: burlywood;
+
+}
+
+.cardDesign{
+border-radius: 20PX;
+cursor: pointer;
+background-color: green;
+font-size: 20px;
+padding-left: 45px;
+width: 300px;
+padding-top: 40px;
+height: 100px;
+margin-left: 100px;
+
+}
+.cardDesign:hover{
+color: blue;
+background-color:pink;
+}
+#inputName{
+    
+color: black;
+font-size: 20px;
+font-style: normal;
+margin-left: 300px;   
+color: violet;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-radius: 20px;
+margin-top: 300px;
+width: 300px;
+
+
+}
+.container{
+    border-radius: 20px;
+
+}
+.submit{
+    margin: 100px;
+}
+.card1:hover{
+    background-color:black;
+}
+.highlight{
+     background-color: brown;
+}
